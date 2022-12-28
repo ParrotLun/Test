@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SP8RoPwCqmw7a+w0S2PtqaOXN9frSZTblQ0iaTJK3hjaokfP53KpqB0UhaDmL/xcg3MNGtJmosPAg8an8FpyBQ==",
-  "success": true,
-  "projectFilePath": "D:\\Blazer\\ConsoleApp1\\ConsoleApp1Tests\\ConsoleApp1Tests.csproj",
+  "dgSpecHash": "+zAAtaKECfXNqKv0UZVkTA+AYiPrB7SWzuMSvcyHMIJ+5gBWTtBGcCRn8ZUdDu+5PCthQjeq+Dkywe/8tzk4Mw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\kevpa\\OneDrive\\文件\\GitHub\\Test\\ConsoleApp1Tests\\ConsoleApp1Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevpa\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\kevpa\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
@@ -93,5 +93,15 @@
     "C:\\Users\\kevpa\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\kevpa\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\kevpa\\OneDrive\\文件\\GitHub\\Test\\ConsoleApp1\\ConsoleApp1.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\kevpa\\OneDrive\\文件\\GitHub\\Test\\ConsoleApp1\\ConsoleApp1.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
